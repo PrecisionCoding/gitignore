@@ -19,5 +19,9 @@
 !**/App_Data/[Pp]ackages/
 !**/[Uu]mbraco/[Dd]eveloper/[Pp]ackages
 
+# If you're using SQLCE and need to distribute the .sdf file either check 
+# that the extension is not already ignored or uncomment this next line:
+# !**/App_Data/[Uu]mbraco.sdf
+
 # ImageProcessor DiskCache 
 **/App_Data/cache/
